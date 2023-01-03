@@ -63,13 +63,13 @@
   ],
   "string": [
     {
-        "question": "Is Sum" ,
+        "question": "Valid Anagram" ,
         "link": "https://google.com",
         "askedby": "",
         "level": "easy"
     }, 
     {
-        "question": "Is Sum" ,
+        "question": "Average of string" ,
         "link": "https://google.com",
         "askedby": "",
         "level": "hard"
