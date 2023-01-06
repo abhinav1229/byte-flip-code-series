@@ -64,21 +64,75 @@
   "string": [
     {
         "question": "Valid Anagram" ,
-        "link": "https://google.com",
+        "link": "https://leetcode.com/problems/valid-anagram/",
         "askedby": "",
         "level": "easy"
     }, 
     {
-        "question": "Average of string" ,
-        "link": "https://google.com",
+        "question": "Check if the Sentence Is Pangram" ,
+        "link": "https://leetcode.com/problems/check-if-the-sentence-is-pangram/",
         "askedby": "",
-        "level": "hard"
+        "level": "easy"
     }, 
     {
-        "question": "Is Sum" ,
-        "link": "https://google.com",
+        "question": "Shuffle String" ,
+        "link": "https://leetcode.com/problems/shuffle-string/",
+        "askedby": "",
+        "level": "easy"
+    }, 
+    {
+        "question": "Sort the People" ,
+        "link": "https://leetcode.com/problems/sort-the-people/",
+        "askedby": "",
+        "level": "easy"
+    }, 
+    {
+        "question": "Rings and Rods" ,
+        "link": "https://leetcode.com/problems/rings-and-rods/",
+        "askedby": "",
+        "level": "easy"
+    }, 
+    {
+        "question": "Maximum Nesting Depth of the Parentheses" ,
+        "link": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
+        "askedby": "",
+        "level": "easy"
+    }, 
+    {
+        "question": "Group Anagrams" ,
+        "link": "https://leetcode.com/problems/group-anagrams/",
         "askedby": "",
         "level": "medium"
-    }
+    }, 
+    {
+        "question": "Palindromic Substrings" ,
+        "link": "https://leetcode.com/problems/palindromic-substrings/",
+        "askedby": "",
+        "level": "medium"
+    },
+    {
+        "question": "Sort Characters By Frequency" ,
+        "link": "https://leetcode.com/problems/sort-characters-by-frequency/",
+        "askedby": "",
+        "level": "medium"
+    }, 
+    {
+        "question": "Generate Parentheses" ,
+        "link": "https://leetcode.com/problems/generate-parentheses/",
+        "askedby": "",
+        "level": "medium"
+    },
+    {
+        "question": "Longest Palindromic Substring" ,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "askedby": "",
+        "level": "medium"
+    },
+    {
+        "question": "Longest Substring Without Repeating Characters" ,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+        "askedby": "",
+        "level": "easy"
+    }, 
   ]
 }
